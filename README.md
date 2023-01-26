@@ -6,3 +6,7 @@ Archives without lists:
 
 * frontend
 * classifieds
+
+PS: Want to talk? Add me on Linkedin:
+
+https://www.linkedin.com/in/arseniyshestakov/
