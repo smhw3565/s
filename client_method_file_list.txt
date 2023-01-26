@@ -1,0 +1,14 @@
+client_method/
+client_method/README.md
+client_method/ya.make
+client_method/post_campaign/
+client_method/post_campaign/date_control.sql
+client_method/post_campaign/post-campaign_lib.sql
+client_method/post_campaign/metrika.sql
+client_method/post_campaign/pv_metrika_control.sql
+client_method/post_campaign/pv_search.sql
+client_method/post_campaign/pv_metrika.sql
+client_method/post_campaign/task_parse.sql
+client_method/post_campaign/connect_ad.sql
+client_method/post_campaign/geo.sql
+client_method/post_campaign/direct.sql

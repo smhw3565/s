@@ -1,0 +1,8 @@
+certs/
+certs/ya.make
+certs/update-certs.py
+certs/tests/
+certs/tests/ya.make
+certs/tests/test_fetch.py
+certs/yandex_internal.pem
+certs/cacert.pem
