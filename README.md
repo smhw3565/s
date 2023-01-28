@@ -9,6 +9,7 @@ Please consider donating to charities providing humanitarian aid for Ukraine.
 Charity a friend of mine work for: [https://handofhelp.com.ua](https://handofhelp.com.ua)
 
 [Helping Hand](https://handofhelp.com.ua) aid civilians affected by Russian agression.
+
 It is small charity and any amount you donate will be huge help for them.
 
 ...
