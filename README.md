@@ -6,7 +6,7 @@ There is no illegal material or download links! FILENAMES ONLY!
 
 Please consider donating to charities providing humanitarian aid for Ukraine.
 
-Charity a friend of mine work for: [https://handofhelp.com.ua](https://handofhelp.com.ua)
+Charity a friend of mine [Alexander Kubrak](https://www.facebook.com/alexander.kubrak) work for: [https://handofhelp.com.ua](https://handofhelp.com.ua)
 
 [Helping Hand](https://handofhelp.com.ua) aid civilians affected by Russian agression.
 
