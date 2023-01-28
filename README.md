@@ -4,11 +4,11 @@ There is no illegal material or download links! FILENAMES ONLY!
 
 ...
 
-Please consider donating to a charities providing humanitarian aid for Ukraine.
+Please consider donating to charities providing humanitarian aid for Ukraine.
 
-My friend work for this charity: [Helping Hand](https://handofhelp.com.ua)
+Here is charity a friend of mine who I know well of mine work for: [https://handofhelp.com.ua](https://handofhelp.com.ua)
 
-[https://handofhelp.com.ua](https://handofhelp.com.ua)
+[Helping Hand](https://handofhelp.com.ua) help civilians affected by Russian agression. Any amount you donate it will be huge help for them.
 
 ...
 
