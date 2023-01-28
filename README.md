@@ -6,9 +6,9 @@ There is no illegal material or download links! FILENAMES ONLY!
 
 Please consider donating to charities providing humanitarian aid for Ukraine.
 
-Here is charity a friend of mine who I know well of mine work for: [https://handofhelp.com.ua](https://handofhelp.com.ua)
-
-[Helping Hand](https://handofhelp.com.ua) help civilians affected by Russian agression. Any amount you donate it will be huge help for them.
+Charity a friend of mine work for: [https://handofhelp.com.ua](https://handofhelp.com.ua)
+[Helping Hand](https://handofhelp.com.ua) aid civilians affected by Russian agression.
+It is small charity and any amount you donate will be huge help for them.
 
 ...
 
